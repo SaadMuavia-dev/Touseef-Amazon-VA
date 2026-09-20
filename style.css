@@ -1,4 +1,4 @@
-:root{--navy:#131921;--navy2:#232f3e;--accent:#ff9900;--accent2:#febd69;--ease:cubic-bezier(.22,.8,.3,1)}
+:root{--navy:#18202b;--navy2:#232f3e;--accent:#f39407;--accent2:#f3aa4a;--ease:cubic-bezier(.22,.8,.3,1)}
 html{scroll-behavior:smooth}
 body{font-family:'Plus Jakarta Sans',system-ui,-apple-system,'Segoe UI',sans-serif;color:var(--navy2);background:#fff}
 section[id]{scroll-margin-top:64px}
